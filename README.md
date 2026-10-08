@@ -2,9 +2,9 @@
 ### Non-Associative Attention & Constant-Memory Sequence Modeling via the Fano Plane
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C.svg?style=flat&logo=pytorch)](https://pytorch.org/)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+(https://creativecommons.org/licenses/by/4.0/)
 [![Hardware: Moiré Ready](https://img.shields.io/badge/Hardware-8D_Moiré_Compatible-06b6d4.svg)](#hardware-forward-compatibility)
-[![Verification: 100% Passed](https://img.shields.io/badge/Verification-100%25_Passed-34d399.svg)](#empirical-validation--benchmarks)
+
 
 ---
 
